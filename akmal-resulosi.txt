@@ -1,4 +1,4 @@
 akmal resolusi
 -kosistem belajar web
--menonton totorial
 -membuat web site
+-membuat totorial
