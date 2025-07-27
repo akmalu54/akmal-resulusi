@@ -3,5 +3,6 @@ rencana konten wpu
 -javascript
  .belajar framework
  .laravel
+-membuat wibsite statis
 -vlog
 -belajar git hub
