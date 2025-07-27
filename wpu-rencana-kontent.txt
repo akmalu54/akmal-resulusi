@@ -4,5 +4,6 @@ rencana konten wpu
  .belajar framework
  .laravel
 -membuat wibsite statis
--vlog
+-belajar bahasa phyton
+-belajar bahasa java
 -belajar git hub
