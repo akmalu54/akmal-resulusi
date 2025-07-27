@@ -3,6 +3,7 @@ rencana konten wpu
 -javascript
  .belajar framework
  .laravel
+ .css
 -membuat wibsite statis
 -belajar bahasa phyton
 -belajar bahasa java
