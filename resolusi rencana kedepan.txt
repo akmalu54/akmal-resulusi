@@ -2,6 +2,6 @@ RENCANA KEDEPAN
 
 -html
  web portofolio
- 
 -php
+ belajar framework laravel
 -java script
