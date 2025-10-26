@@ -5,6 +5,7 @@ RENCANA KEDEPAN
 -php
  belajar framework laravel
 -java script
- angolar
+ vue
  react
-phyton
+-phyton
+
