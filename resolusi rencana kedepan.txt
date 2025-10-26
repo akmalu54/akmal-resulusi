@@ -6,4 +6,5 @@ RENCANA KEDEPAN
  belajar framework laravel
 -java script
  vue
+ react
 -phyton
